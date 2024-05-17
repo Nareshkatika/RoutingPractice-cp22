@@ -1,0 +1,33 @@
+/* Write your CSS code here */
+
+.imageSizeEl {
+  height: 30px;
+  margin: 10px;
+}
+
+.headingEl {
+  font-family: roboto;
+  font-size: 25px;
+  font-weight: bold;
+  color: #551e53;
+}
+
+.rowArrangeEl32 {
+  display: flex;
+  flex-direction: row;
+}
+
+.listEl {
+  list-style-type: none;
+  margin: 5px;
+}
+
+.unorderedEl {
+  display: flex;
+}
+
+.FinalEl34 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}

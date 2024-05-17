@@ -1,0 +1,28 @@
+/* Write your CSS code here */
+/* Write your CSS code here */
+/* Write your CSS code here */
+
+.ArrangeEl1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.imageEl {
+  height: 200px;
+  width: 200px;
+}
+
+.headingEl {
+  font-family: roboto;
+  font-size: 25px;
+  font-weight: bold;
+  color: #6d396b;
+}
+
+.paragraphEl {
+  font-family: roboto;
+  font-size: 14px;
+  color: #6d396b;
+}
